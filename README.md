@@ -44,7 +44,11 @@ Python/
 
 ---
 
-## 👤 Ingeniero
+
+## 👨‍💻 Autor
+
+**Milthon**  
+Backend / Full-Stack Developer
 
 **MilthonB** [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/MilthonB)
 
